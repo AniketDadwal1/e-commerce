@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background: #FFFAF4;
+}
+
+.fondo {
+    background: #F7EFE5;
+}
+
+.fondo2 {
+    background: #FFFAF4;
+}
